@@ -1,3 +1,3 @@
-[submodule "public"]
+[submodule "Drawit"]
 	path = public
-	url = /home/jigar/Documents/projects/DrawIt/public
+	url = https://github.com/jigarWala/Drawit.git
